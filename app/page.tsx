@@ -8,7 +8,7 @@ export default function Home() {
     <>
       <Navbar/>
       <Hero/>
-      <div className="px-[20px] lg:container lg:px-[20px]">
+      <div className="px-[20px] lg:container lg:px-[20px] lg:mx-auto">
         <Features/>
       </div>
     </>
